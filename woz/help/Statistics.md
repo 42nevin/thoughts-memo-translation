@@ -110,7 +110,7 @@
 
 [集合](https://help.supermemo.org/wiki/Glossary:Collection)中的[主题](https://help.supermemo.org/wiki/Glossary:Topic)、[概念](https://help.supermemo.org/wiki/Glossary:Concept)和[任务](https://help.supermemo.org/wiki/Glossary:Task)的数量。*当前展示的集合包括519,816个主题（与概念和任务一起计算）*。
 
-#＃＃ 优秀
+### 优秀
 
 计划在这一天进行[重复](https://help.supermemo.org/wiki/Glossary:Repetition)的[未决](https://help.supermemo.org/wiki/Glossary:Outstanding_material)[项目](https://help.supermemo.org/wiki/Glossary:Item)、未决[主题](https://help.supermemo.org/wiki/Glossary:Topic)和[最后演练](https://help.supermemo.org/wiki/Glossary:Final_drill)项目的数量。第一个数字(加号之前)表示这一天安排的、尚未处理的[项目](https://help.supermemo.org/wiki/Glossary:Item)的数量。第二个数字(+号后)表示这一天安排[复习](https://help.supermemo.org/wiki/Glossary:Review)的[题目](https://help.supermemo.org/wiki/Glossary:Topic)的数量。第三个数字（在第二个 "+"后面），如果有的话，表示今天已经重复过的[题目](https://help.supermemo.org/wiki/Glossary:Item)的数量，但得分低于**好（4）**。这些是组成[最终演练队列](https://help.supermemo.org/wiki/Glossary:Final_drill_queue)的[项目](https://help.supermemo.org/wiki/Glossary:Item)。只有在**[工具包](https://help.supermemo.org/wiki/Toolkit_menu)：[选项](https://help.supermemo.org/wiki/Options)：[学习](https://help.supermemo.org/wiki/Learning_tab_in_Options)**中未勾选**Skip final drill**时，才会建立最终演练队列。*在提出的[集合](https://help.supermemo.org/wiki/Glossary:Collection)中，仍有3521个[项目](https://help.supermemo.org/wiki/Glossary:Item)计划在2019年4月1日进行[重复](https://help.supermemo.org/wiki/Glossary:Repetition)。还有1297个[主题](https://help.supermemo.org/wiki/Glossary:Topic)计划在这一天进行[复习](https://help.supermemo.org/wiki/Glossary:Review)，作为[增量阅读](https://help.supermemo.org/wiki/Glossary:Incremental_reading)过程的一部分。在[最终演练队列](https://help.supermemo.org/wiki/Glossary:Final_drill_queue)中没有[元素](https://help.supermemo.org/wiki/Glossary:Element)（**Outstanding**参数的第三个组成部分缺失）*。
 

@@ -32,7 +32,7 @@
 
 4. 开口发出声音
 
-从写作开始，你可以忽略 #1 和 #4。写作没有说话时的压力，也不需要你发音。通过写作，你可以把所有的精力和注意力都集中在思考你想说什么以及你想怎么说。
+从写作开始，你可以忽略 \#1 和 \#4。写作没有说话时的压力，也不需要你发音。通过写作，你可以把所有的精力和注意力都集中在思考你想说什么以及你想怎么说。
 
  [HelloTalk](https://brc.hellotalk.com/refold)，[Tandem](https://www.tandem.net/) 和 [Discord](https://www.reddit.com/r/languagelearning/comments/5m5426/discord_language_learning_servers_masterlist/)之类的在线文字聊天软件是寻找语言练习伙伴的好去处。这些软件可以让你找到世界各地的本地人和他们发短信。
 

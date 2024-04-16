@@ -128,7 +128,7 @@
 
 本文解释了一场旨在结束强制学校教育的罢学「[2023 学生之春](https://supermemo.guru/wiki/Student_Spring_2023)」背后的原因和策略。
 
-Hashtags: [#WiosnaUczniow](https://www.google.com/search?q=%23WiosnaUczniow), #StudentSpring2023
+Hashtags: [\#WiosnaUczniow](https://www.google.com/search?q=%23WiosnaUczniow), \#StudentSpring2023
 
 更多信息：
 

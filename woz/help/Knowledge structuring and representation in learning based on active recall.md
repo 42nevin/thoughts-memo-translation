@@ -10,7 +10,7 @@
 
 我们先排除具体[间隔重复算法](https://super-memory.com/english/algsm11.htm)（例如在 [SuperMemo](https://super-memory.com/english/princip.htm) 中使用的）的影响，来讨论学习效果的要素。具体来说，这里有一个学习微观经济学时简单搭建的知识系统，借助它，我们来观察知识表述方法上的不同，是如何影响学生记牢知识的难易程度的。这个知识系统几乎完全取自**《公司经济学：理论和实践》**（Arthur A. Thompson著，出版于1989） 。宏观经济学的一些一般概念取自 M.McKenzie 的**《宏观经济学》**，而数学胶囊项目则来自 David A. Aaker 和 George S. Day 的**《市场研究》**，1990。
 
-1. [**在自学中，与知识无关的重要因素**](https://super-memory.com/english/ol/ks.htm#Knowledge #独立)
+1. [**在自学中，与知识无关的重要因素**](https://super-memory.com/english/ol/ks.htm#Knowledge#独立)
 
 2.[**学习中知识的呈现方式**](https://super-memory.com/english/ol/ks.htm#表述）
 
