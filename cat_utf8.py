@@ -1,7 +1,11 @@
 from pathlib import Path
-
 import pandas as pd
 import os
+import re
+
+def clean_filename(filename):
+    clean_name = re.sub(r'[^a-zA-Z0-9. ]', '', filename)
+    return clean_name
 
 if __name__ == '__main__':
 
@@ -18,6 +22,12 @@ if __name__ == '__main__':
             files.remove('.DS_Store')
         except:
             pass
+
+        # Add an empty intro.md file to each directory
+        intro_file = Path(f'./src/{path[7:]}/intro.md')
+        intro_file.parent.mkdir(parents=True, exist_ok=True)
+        intro_file.touch()
+
         for file in files:
             print(file)
             try:
@@ -33,11 +43,11 @@ if __name__ == '__main__':
                 text = text.reindex([index[0], flag] + index[1:])
             if file.find('.md') == -1:
                 file = file.replace('.csv', '.md.csv')
-            Path(f'./{path[7:]}').mkdir(parents=True, exist_ok=True)
-            with open(f'./{path[7:]}/{file[:-4]}', 'w', encoding='utf-8') as f:
+            Path(f'./src/{path[7:]}').mkdir(parents=True, exist_ok=True)
+            with open(f'./src/{path[7:]}/{clean_filename(file[:-4])}', 'w', encoding='utf-8') as f:
                 if need_source:
-                    for i in range(len(text['source'].values)):
-                        f.write(text['source'].values[i] + '\n\n')
-                        f.write(text['target'].values[i] + '\n\n')
+                    for src, tgt in zip(text['source'], text['target']):
+                        f.write(src + '\n\n')
+                        f.write(tgt + '\n\n')
                 else:
                     f.writelines('\n\n'.join(text['target'].values))
